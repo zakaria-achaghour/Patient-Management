@@ -1,5 +1,11 @@
 # About the Application
-## patient managment mdule
+### A web-based Patient Management System built with PHP, Symfony Routing, Smarty Templates, and Eloquent ORM for handling CRUD operations for patient records.
+
+
+## **Prerequisites**
+
+This project uses **Docker** to manage prerequisites, so you don't need to install PHP, MySQL, or a web server on your local system.
+
 
 # Clone the repository
 
